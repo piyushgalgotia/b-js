@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+#roll{
+    font-size: 3em;
+    padding: 5px 25px ;
+    border-radius: 0.7em;
+}
+.output{
+    font-size: 3.5em;
+}

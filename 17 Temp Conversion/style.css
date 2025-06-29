@@ -1,0 +1,56 @@
+body{
+    /* margin: 50px;
+    padding: 100px ; */
+    background-color: rgb(163, 142, 142);
+}
+
+#h1{
+    text-align: center;
+    color:rgb(160, 12, 143);
+    border: 2px solid pink;
+}
+
+#container{
+    background-color: rgba(225, 245, 6, 0.379);
+    text-align: center;
+    font-family: sans-serif;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px ;
+    
+}
+
+#textbox{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid red;
+    border-radius : 4px ; 
+    margin-bottom: 15px ;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold ;
+}
+
+
+#myButton{
+    font-size: 25px;
+   font-weight: bold;
+   border: 2px solid black ;
+   border-radius:10px ;
+   padding: 10px ;
+    cursor: pointer;
+}
+
+button:hover{
+    font-style: italic;
+    background-color: aqua;
+}
+
+/* form{
+    background-color: rgb(88, 203, 203);
+} */
